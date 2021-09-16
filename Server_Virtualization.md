@@ -13,7 +13,7 @@
 - Effective Resource Usage : can be located any where.
 - Easy to management : 
   - unused machines only cost disk space.
-  -  [^Application provisioning] maintenance, [^high availability] and [^disaster recovery]
+  -   [^Application provisioning] app [^Application provisioning]maintenance, [^high availability] and [^disaster recovery]
 - Security
   - Keep on separate servers.
   - Separate servers do not pose a risk to each other.
@@ -23,10 +23,10 @@
 
 ###### 注解:
 
-[^Application provisioning]: 应用程序布建, Application provisioning is an infrastructure management solution that helps administrators create customized application configurations called packages.
-[^high availablity]:高可靠性
-[^disaster recovery]:损害恢复
-[^mutually]:交互的
+[^Application provisioning]: 应用程序布建, Application provisioning is an infrastructure management solution that helps administrators create customized application configurations called packages. [^Application provisioning]
+[^high availablity]:高可靠性  
+[^disaster recovery]:损害恢复  
+[^mutually]:交互的  
 
 
 
